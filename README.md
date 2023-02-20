@@ -5,7 +5,7 @@
 - 📫 How to reach me: harumascaremath@gmail.com
 - 🔥 Pursue: Technology Utilities
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tre-VN&theme=dark&background=000000)](https://git.io/streak-stats)
 ### :hammer_and_wrench: Languages :
 <div>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40" />&nbsp;
