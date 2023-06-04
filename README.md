@@ -1,9 +1,9 @@
 ### Hi there 👋
 - 👋 I’m Haruma, come from VietNam
-- 🔭 I’m currently working on [Tre](https://github.com/Tre-VN/Tre)
-- 🌱 I’m currently learning TypeScript, C#, React
-- 📫 How to reach me: harumascaremath@gmail.com
-- 🔥 Pursue: Technology Utilities
+- 🔭 I’m currently working on [Sen](https://github.com/Haruma-VN/Sen)
+- 🌱 I’m currently learning TypeScript, C#, Python...
+- 📫 How to reach me: harumatsx@gmail.com
+- 🔥 Pursue: Technology
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Haruma-VN&theme=dark&background=000000)](https://github.com/Haruma-VN)
 ### :hammer_and_wrench: Languages :
